@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        var user = new User(); //reference- class-n memory-de olan addressi
+        var user = new User(); //reference- class-n memory-de olan address-i
         user.name = "Kamran";
         user.surname = "Asadov";
 
